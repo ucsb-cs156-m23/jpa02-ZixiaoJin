@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-m23/jpa02-ZixiaoJin
 
-Deployed at: [https://jpa02-cgaucho.herokuapp.com](http://jpa02-zixiaojin.dokku-04.cs.ucsb.edu/)
+Deployed at: http://jpa02-zixiaojin.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
