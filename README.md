@@ -1,6 +1,6 @@
 # jpa02-ZixiaoJin
 
-Repo: https://ucsb-cs156-m23/jpa02-ZixiaoJin
+Repo: https://github.com/ucsb-cs156-m23/jpa02-ZixiaoJin
 
 Deployed at: http://jpa02-zixiaojin.dokku-04.cs.ucsb.edu/
 
